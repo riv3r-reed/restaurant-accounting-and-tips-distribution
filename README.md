@@ -1,0 +1,4 @@
+# restaurant-accounting-and-tips-distribution
+# This program is designed to help with the day-to-day accounting for restaurants, especially calculatation of tip distribution.
+# It was written during Summer in 2022, when I was working full-time in an extremely short-staffed restaurant where the waitors had to do the accounting when closing the restaurant at the end of the day and all of us were struggling with the calculations.
+# It is a very simple program and definitely has lots of limitations. The lack of a GUI made its accessibility difficult to my co-works and was thus not very helpful for their accounting.
